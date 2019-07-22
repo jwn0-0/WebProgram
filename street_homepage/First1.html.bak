@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>뉴스쿨 패션</title>
+  <link href='http://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister' rel='stylesheet' type='text/css'>
+  	<style>
+	#aaa
+	{
+	background-image:url('background1.jpg');
+	}
+	
+	h1, p {font-family: "Love Ya Like A Sister", cursive;}
+	</style>
+
+ </head>
+
+ <body id="aaa" text="white">
+ <br>
+  <h1><center><b>STREET FASHION</b></center></h2>
+ </body>
+
+</html>
